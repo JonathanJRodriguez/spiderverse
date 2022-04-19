@@ -6,6 +6,9 @@ class Spiderman{
         this.movies = movies;
         this.studio = studio;
     }
+    getInfo(){
+        
+    }
 }
 
 module.exports = Spiderman
